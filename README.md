@@ -1,1 +1,29 @@
 # proj195-LVGL-on-OneOS
+
+## 项目描述
+LVGL是一个C语言编写的免费的开源图形库，提供了用于嵌入式GUI的各种元素。用户可以利用丰富的图形库资源，在消耗低内存的情况下构建视觉效果丰富多彩的GUI。该图形组件可以依托于OneOS，在各种各样带屏幕的MCU产品上大放光彩。
+
+我们的目标是OneOS + LVGL实际场景的应用实现，如穿戴设备、车载屏、播放器等带屏应用，还可以结合OneOS其他能力组件，形成体验好、成本低的解决方案。
+
+## 源码
+- https://gitee.com/cmcc-oneos
+- https://github.com/lvgl/lvgl
+
+## 项目导师
+
+## 难度
+中等
+
+## 文档
+- [OneOS 参考文档](https://os.iot.10086.cn/v2/doc/homePage)
+- [LVGL 参考文件](https://docs.lvgl.io/master/index.html)
+
+## License
+•	Apache 2.0(https://www.apache.org/licenses/LICENSE-2.0.html)
+
+## 预期目标
+注意：下面的内容是建议内容，不要求必须全部完成。选择本项目的同学也可与导师联系，提出自己的新想法，如导师认可，可加入预期目标
+第一题：基于OneOS + LVGL实现实际应用
+•	应用场景不限，如智能手表表盘、车载屏、智能家居中控面板等；
+•	支持UI交互，注重动效流畅、画面炫酷;
+
